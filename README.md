@@ -1,6 +1,6 @@
 # InspectFix Mirror
 
-This is a mirror of some deleted user's InspectFix
+This is a mirror of _ForgeUser405586's InspectFix
 
 - [Curseforge URL](https://www.curseforge.com/wow/addons/inspectfix)
 
